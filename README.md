@@ -3,7 +3,7 @@
 Phimart is a RESTful e-commerce API built using Django REST Framework (DRF). It provides endpoints for managing products, categories, orders, and carts. The project also implements JWT authentication using Djoser and includes API documentation with Swagger.
 
 ## Features
-- Product and category management
+- Product and category management (django project)
 - Cart and order functionality
 - JWT authentication using Djoser
 - API documentation using Swagger (drf_yasg)
@@ -77,4 +77,5 @@ This project is licensed under the MIT License.
 ---
 ### Author
 [Your Name](https://github.com/yourusername)
+
 
